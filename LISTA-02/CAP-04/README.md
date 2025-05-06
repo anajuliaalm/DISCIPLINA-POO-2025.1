@@ -1,6 +1,8 @@
 
 # 💻 Exercícios de Lógica de Programação
 
+
+## Exercícios Resolvidos 
 1. Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
 a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
 
