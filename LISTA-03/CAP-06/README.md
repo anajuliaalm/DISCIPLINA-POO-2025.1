@@ -1,5 +1,5 @@
 # Exercícios de Lógica de Programação
-Este repositório foi criado para auxiliar no aprendizado de lógica de programação, somente com as questões RESOLVIDAS do capítulo 6!
+
 
 ## Questões resolvidas do cap 06. 
 
