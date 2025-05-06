@@ -1,6 +1,6 @@
-#Exercícios de Lógica de Programação
+# Exercícios de Lógica de Programação
 
-##Questões resolvidas do cap 08 
+## Questões resolvidas do cap 08 
 
 
 
