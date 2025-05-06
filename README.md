@@ -1,6 +1,6 @@
-# DISCIPLINA-POO-2025.1
+# DISCIPLINA-POO-2025.1 📚💫📌
 
-### 📌 Esse repositório contem as atividades da disciplina de Programação Orientada a objetos (POO) em Java. Aqui você escontrará exercícios resolvidos e propostos da disciplina. 
+### 🌟 Esse repositório contém as atividades da disciplina de Programação Orientada a Objetos (POO) em Java, aqui você escontrará exercícios resolvidos e propostos da disciplina.
 
 ## 📚Capítulos abordados:
 Capítulo 03 – Estrutura Sequencial
