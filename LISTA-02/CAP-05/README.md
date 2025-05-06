@@ -1,7 +1,7 @@
 # 💻 Exercícios de Lógica de Programação
 
 
-## Exercícios Resolvidos 
+## Exercícios Resolvidos do cap 05
 1. Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:
 a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.
 
@@ -81,7 +81,7 @@ a média das alturas de todos os jogadores do campeonato; e
 
 a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
 
-# 📝 EXERCÍCIOS PROPOSTOS
+# 📝 EXERCÍCIOS PROPOSTOS cap 05
 1. Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em seguida, organize-os em ordem crescente e decrescente.
 
 2. Uma companhia de teatro deseja montar uma série de espetáculos. A direção calcula que, a R$ 5,00 o ingresso, serão vendidos 120 ingressos, e que as despesas serão de R$ 200,00. Diminuindo-se em R$ 0,50 o preço dos ingressos, espera-se que as vendas aumentem em 26 ingressos. Faça um programa que escreva uma tabela de valores de lucros esperados em função do preço do ingresso, fazendo-se variar esse preço de R$ 5,00 a R$ 1,00, de R$ 0,50 em R$ 0,50. Escreva, ainda, para cada novo preço de ingresso, o lucro máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.
