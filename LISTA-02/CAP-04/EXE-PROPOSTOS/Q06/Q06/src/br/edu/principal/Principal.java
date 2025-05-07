@@ -1,26 +1,30 @@
 package br.edu.principal;
+
 import java.util.Scanner;
+
 public class Principal {
 
 	public static void main(String[] args) {
-	Scanner Scanner = new Scanner(System.in);
-		
-		
-	    System.out.print("DIGITE O SALÁRIO FIXO DO FUNCIONÁRIO: R$ ");
-        double salarioFixo = Scanner.nextDouble();
-        
-        System.out.print("DIGITE O VALOR DAS VENDAS REALIZADAS PELO FUNCIONÁRIO: R$ ");
-        double vendas = Scanner.nextDouble();
-        
-        double comissao = vendas * 0.04;
-        double salarioFinal = salarioFixo + comissao;
-        
-      
-        System.out.println("\nCOMISSÃO: R$ " + String.format("%.2f", comissao));
-        System.out.println("SALÁRIO FINAL: R$ " + String.format("%.2f", salarioFinal));
-        
-         
-      
-        Scanner.close();
-    }
+		  Scanner sc = new Scanner(System.in);
+	        double totalVista = 0, totalPrazo = 0;
+
+	        for (int i = 1; i <= 3; i++) {
+	            System.out.print("Código (V ou P): ");
+	            String cod = sc.next().toUpperCase();
+	            System.out.print("Valor: ");
+	            double valor = sc.nextDouble();
+
+	            if (cod.equals("V")) totalVista += valor;
+	            else if (cod.equals("P")) totalPrazo += valor;
+	        }
+
+	        System.out.println("\nTotal à vista: R$ " + totalVista);
+	        System.out.println("Total a prazo: R$ " + totalPrazo);
+	        System.out.println("Total geral: R$ " + (totalVista + totalPrazo));
+	        System.out.println("1ª parcela das compras a prazo: R$ " + (totalPrazo / 3));
+
+	        sc.close();
+
+	}
+
 }
